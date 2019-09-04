@@ -1,2 +1,2 @@
 # practice
-learning java
+Learning programming
